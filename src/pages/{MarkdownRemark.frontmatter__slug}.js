@@ -3,6 +3,12 @@ import { graphql } from "gatsby"
 import Menu from "../components/menu"
 import Footer from "../components/footer"
 
+import "@fontsource/playfair-display/700.css"
+import "@fontsource/poppins"
+import "@fontsource/bevan"
+
+import "../styles/landing.css"
+
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {

@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/daniela-narvaez",
   siteMetadata: {
     siteUrl: "https://www.danielanarvaez.com.ar",
     title: "Daniela Narvaez",
