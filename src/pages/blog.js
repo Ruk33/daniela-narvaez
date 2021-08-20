@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
+import { Helmet } from "react-helmet";
 import Menu from "../components/menu"
 import Footer from "../components/footer"
 
@@ -15,6 +16,10 @@ export default function Blog ({
   const { allMarkdownRemark } = data // data.markdownRemark holds your post data
   return (
     <>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>Daniela Narvaez - Marketing digital en Tucumán</title>
+      </Helmet>
       <Menu />
       <div className="blog hero-container">
         <div className="container hero">

@@ -1,5 +1,6 @@
 import * as React from "react"
 import { graphql } from "gatsby"
+import { Helmet } from "react-helmet";
 import Menu from "../components/menu"
 import Footer from "../components/footer"
 
@@ -18,6 +19,10 @@ export default function LandingPage({
   const { html } = markdownRemark
   return (
     <>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>Daniela Narvaez - Marketing digital en Tucumán</title>
+      </Helmet>
       <Menu />
       <div
         className="content"
