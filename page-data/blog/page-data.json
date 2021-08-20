@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-blog-js",
+    "path": "/blog/",
+    "result": {"data":{"allMarkdownRemark":{"nodes":[{"frontmatter":{"slug":"/blog/my-first-post","title":"My first blog post","summary":"Pequeña descripcion"}}]}},"pageContext":{}},
+    "staticQueryHashes": []}
