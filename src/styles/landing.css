@@ -41,6 +41,9 @@ body {
     padding-bottom: 10px;
     text-decoration: none;
     transition: 300ms ease-in-out;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .primary-button svg {
@@ -571,9 +574,17 @@ End Dark mode */
     .testimonial-grid {
         grid-template-columns: auto;
     }
+
+    .blog-post-content {
+        padding: 20px;
+    }
 }
 
 @media (max-width: 600px) {
+    .menu .container {
+        flex-direction: column;
+    }
+
     .hero .content {
         margin-right: 0;
     }
@@ -586,5 +597,34 @@ End Dark mode */
         margin-left: 20px;
         margin-right: 20px;
         width: 80px;
+    }
+
+    .blog-post-content .avatar {
+        width: 100px;
+        margin-top: -50px;
+    }
+
+    .post-entry {
+        padding: 50px;
+    }
+
+    h1 {
+        font-size: 2rem !important;
+        line-height: 2.5rem !important;
+    }
+
+    h2 {
+        font-size: 1.8rem !important;
+        line-height: 2.3rem !important;
+    }
+
+    h3 {
+        font-size: 1.3rem !important;
+        line-height: 2rem !important;
+    }
+
+    p {
+        font-size: 1rem !important;
+        line-height: 1.5rem !important;
     }
 }
