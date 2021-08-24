@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-blog-js",
     "path": "/blog/",
-    "result": {"data":{"allMarkdownRemark":{"nodes":[{"frontmatter":{"slug":"/blog/my-first-post","title":"My first blog post","summary":"Pequeña descripcion"}}]}},"pageContext":{}},
+    "result": {"data":{"allMarkdownRemark":{"nodes":[{"frontmatter":{"slug":"/blog/canva-mi-herramienta-de-preferencia-para-diseno-y-marketing","title":"Canva, mi herramienta de preferencia para diseño y marketing.","summary":"Te cuento sobre Canva, mi herramienta de preferencia para diseños y logos."},"timeToRead":2}]}},"pageContext":{}},
     "staticQueryHashes": []}
