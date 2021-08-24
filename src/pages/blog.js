@@ -37,6 +37,7 @@ export default function Blog ({
         <div className="section">
           {allMarkdownRemark.nodes.map((post) => (
                 <a className="post-entry" href={post.frontmatter.slug} key={post.frontmatter.slug}>
+                    <span className="primary-color">Tiempo de lectura: {post.timeToRead} minutos.</span>
                     <h2>{post.frontmatter.title}</h2>
                     <p>{post.frontmatter.summary}</p>
                 </a>
@@ -57,6 +58,7 @@ export const pageQuery = graphql`
           title,
           summary
         }
+        timeToRead
       }
     }
   }  

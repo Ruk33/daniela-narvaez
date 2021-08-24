@@ -24,7 +24,6 @@ title: "Landing"
 </a>
 </div>
 
-<img src="../images/hero-image.png" />
 
 </div>
 </div>

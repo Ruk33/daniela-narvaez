@@ -10,6 +10,8 @@ import "@fontsource/bevan"
 
 import "../styles/landing.css"
 
+import avatarSrc from "../images/daniela-narvaez-avatar.png"
+
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
@@ -25,11 +27,11 @@ export default function Template({
       <div className="container">
         <div className="section">
           <h1 className="primary-title text-big m-0">{frontmatter.title}</h1>
-          <h2 className="m-0">{frontmatter.date}</h2>
-          <div
-            className="blog-post-content"
-            dangerouslySetInnerHTML={{ __html: html }}
-          />
+          <h3 className="m-0 primary-color">{frontmatter.date}</h3>
+          <div className="blog-post-content">
+            <img src={avatarSrc} alt="Daniela Narvaez" className="avatar" />
+            <div dangerouslySetInnerHTML={{ __html: html }} />
+          </div>
         </div>
       </div>
       <Footer />
