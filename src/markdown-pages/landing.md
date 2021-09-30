@@ -18,7 +18,7 @@ title: "Landing"
     Conseguí mayor impacto y crecimiento mejorando la presencia digital de tu Empresa en redes sociales.
 </p>
 
-<a class="primary-button" href="https://wa.link/7gi89u" target="_blank" rel="noreferrer nofollow">
+<a class="primary-button" href="https://wa.me/message/EXDH535ELDS6B1" target="_blank" rel="noreferrer nofollow">
     Mejorar mi presencia digital
     <i aria-hidden="true" class="fas fa-angle-right"></i>
 </a>
@@ -158,7 +158,7 @@ Trabajamos en captación y fidelización de clientes.
 <div class="plan gold">
 <h3 class="secondary-title text-center">Plan <span class="plan-gold-color">Oro</span></h3>
 <p>Si necesitas un plan a tu medida, por favor, contactanos en nuestras redes sociales.</p>
-<a href="https://wa.link/7gi89u" target="_blank" rel="noreferrer nofollow">Contactar</a>
+<a href="https://wa.me/message/EXDH535ELDS6B1" target="_blank" rel="noreferrer nofollow">Contactar</a>
 </div>
 
 </div>
@@ -269,7 +269,7 @@ Desde mi perspectiva, es un gasto no medido. No obtendrás los resultados que es
 
 <div class="container section text-center">
 <h2 class="primary-title">¿Listo para mejorar tu negocio?</h2>
-<a class="primary-button" href="https://wa.link/7gi89u" target="_blank" rel="noreferrer nofollow">
+<a class="primary-button" href="https://wa.me/message/EXDH535ELDS6B1" target="_blank" rel="noreferrer nofollow">
     <i aria-hidden="true" class="fab fa-whatsapp"></i>
     Si, quiero mejorar mi negocio
 </a>

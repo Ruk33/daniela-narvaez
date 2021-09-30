@@ -10,7 +10,7 @@ export default function Menu() {
                 </a>
                 <div>
                     <a href="/blog">Blog</a>
-                    <a className="primary-button" href="https://wa.link/7gi89u" target="_blank" rel="noreferrer nofollow">Contacto</a>
+                    <a className="primary-button" href="https://wa.me/message/EXDH535ELDS6B1" target="_blank" rel="noreferrer nofollow">Contacto</a>
                 </div>
             </div>
         </div>

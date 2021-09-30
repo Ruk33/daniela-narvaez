@@ -416,6 +416,10 @@ body {
     position: relative;
 }
 
+.blog-post-content h1 {
+    line-height: 4rem;
+}
+
 .blog-post-content .avatar {
     border-radius: 100%;
     width: 128px;
