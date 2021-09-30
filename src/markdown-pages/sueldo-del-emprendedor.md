@@ -9,7 +9,7 @@ summary: "Sueldo del emprendedor, por qué es importante y cómo calcularlo."
 
 ## Por qué es importante y como calcularlo
 
-Unos de los costos más dejados de lado a la hora de emprender es el propio sueldo del emprendedor. Si se quiere que el negocio sea rentable debe ser unos de los principales costos a tener en cuenta.
+Uno de los costos más dejados de lado a la hora de emprender es el propio sueldo del emprendedor. Si se quiere que el negocio sea rentable debe ser unos de los principales costos a tener en cuenta.
 
 Como dueño de una startup o emprendimiento que está creciendo, la idea de reinvertir cada peso de ganancias en tu negocio es tentadora. Muchos fundadores siguen el camino extremo de no pagarse nada a sí mismos hasta ese mágico día en el futuro en el que sus inversionistas tengan su dinero de vuelta, el negocio funcione correctamente y sientan que tienen el suficiente colchón financiero como para tener un salario.
 
@@ -42,33 +42,33 @@ Todas las horas y esfuerzos destinados a hacer crecer el emprendimiento.
  Una manera práctica de visualizar el sueldo que debe pagarte el emprendimiento es considerar el sueldo que pagarías a una persona si vos no podrías atender el negocio.
  
 
-##  ¿Cómo calcular tu sueldo emprendedor?
+## ¿Cómo calcular tu sueldo emprendedor?
 
-1º Definir objetivo de venta:
+1. Definir objetivo de venta:
 ¿Cuánto te gustaría vender y facturar mensualmente?
 
-2º Estructura de costos variables y fijos del emprendimiento
+2. Estructura de costos variables y fijos del emprendimiento
 se logra al hacer la distinción entre los costos variables y los fijos. 
 En los variables determina un porcentaje promedio de entre un 30% y 45%. 
 En el caso de servicios este porcentaje se reduce a un 5% o casi nada porque el costo variable son las horas.
 
-3º Determinar el sueldo emprendedor como la suma de:
+3. Determinar el sueldo emprendedor como la suma de:
 
 - Los gastos fijos mensuales que necesitas para vivir. Esto funcionaría cómo el mínimo que necesitas que tu negocio te pague para subsistir.
 - Luego podemos agregarle un fondo de reserva para vacaciones. (si es que lo consideras conveniente).
 - Sumarle un fondo de ahorro mensual (si es que lo consideras conveniente).
 
-4º Chequear la cantidad de horas diarias, semanales y mensuales que le estás dedicando al negocio
+4. Chequear la cantidad de horas diarias, semanales y mensuales que le estás dedicando al negocio
 
-5º Analiza si el objetivo de venta para alcanzar a cubrir todos los costos
+5. Analiza si el objetivo de venta para alcanzar a cubrir todos los costos
 
-6º Determina cuál sería el objetivo de venta que cubre todos los costos.
+6. Determina cuál sería el objetivo de venta que cubre todos los costos.
 
-7º Replantear y ejecutar las acciones para lograr un objetivo de venta que cubra todos los costos incluidos tu sueldo emprendedor más un porcentaje (margen) de ganancia.
+7. Replantear y ejecutar las acciones para lograr un objetivo de venta que cubra todos los costos incluidos tu sueldo emprendedor más un porcentaje (margen) de ganancia.
 
-8º Comparar tu valor hora actual y evalúa si estás alcanzándolo.
+8. Comparar tu valor hora actual y evalúa si estás alcanzándolo.
 
-Conclusión:
+## Conclusión:
 
 Tu tiempo es valioso: Los emprendedores suelen tener ideas curiosas sobre los costos de una startup o emprendimiento. 
 
