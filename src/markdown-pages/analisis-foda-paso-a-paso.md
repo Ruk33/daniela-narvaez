@@ -24,7 +24,6 @@ El análisis FODA consiste en una matriz en la que identificamos:
 | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Oportunidades (O)<br>Son las oportunidades externas que se deben aprovechar. | **Estrategia FO:** Es la estrategia a seguir con base a las fortalezas y oportunidades.       | **Estrategia DO:** es la estrategia a seguir con base a las debilidades y oportunidades |
 | Amenazas (A)<br>Son los riesgos externos que se debe afrontar.               | **Estrategia FA:** Es la estrategia a seguir con base a las fortalezas y amenazas detectadas. | **Estrategia DA:** Es la estrategia a seguir con base a las debilidades y amenazas.     |
-|                                                                              |                                                                                               |                                                                                         |
 
 
 

@@ -438,6 +438,21 @@ body {
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.15);
 }
 
+.blog-post-content table {
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+}
+
+.blog-post-content th {
+    background-color: #f8d210;
+}
+
+.blog-post-content th,
+.blog-post-content td {
+    border: 1px solid #836f0c;
+    padding: 5px;
+}
+
 @keyframes bounce {
     0%   { transform: scale(1,1)    translateY(0); }
     10%  { transform: scale(1.1,.9) translateY(0); }

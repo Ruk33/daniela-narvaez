@@ -51,7 +51,7 @@ export default function Blog ({
 
 export const pageQuery = graphql`
   query {
-    allMarkdownRemark(sort: {fields: frontmatter___date}, limit: 10, filter: {frontmatter: {slug: {ne: "/landing"}}}) {
+    allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}, limit: 10, filter: {frontmatter: {slug: {ne: "/landing"}}}) {
       nodes {
         frontmatter {
           slug,
